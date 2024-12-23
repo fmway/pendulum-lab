@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: HardHUMMY
+  m_EditorClassIdentifier: 
+  categoryName: Hard
+  questions:
+  - questionInfo: Sebuah pendulum sederhana dengan panjang tali L memiliki periode
+      ayunan T. Jika panjang tali dijadikan 4L, berapa kali lipat periode ayunan
+      yang baru dibandingkan dengan periode ayunan semula?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 1/2 kali
+    - 2 kali
+    - 4 kali
+    - 8 kali
+    correctAns: 2 kali
